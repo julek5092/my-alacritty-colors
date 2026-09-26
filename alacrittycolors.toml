@@ -1,0 +1,20 @@
+[colors.primary]
+background = '#000000'
+foreground = '#cccccc'
+
+[colors.normal]
+magenta = '#c19ba0' # Sets your primary prompt/accent color
+cyan = '#c5c6cf'
+blue = '#34535c'
+yellow = '#a17e4d'
+green = '#6c8042'
+red = '#782929'
+
+[colors.bright]
+magenta = '#dec3c7'
+cyan = '#e6e7f2'
+blue = '#5a7f8a'
+yellow = '#d4a870'
+green = '#90a662'
+red = '#964141'
+black = '#424242'
