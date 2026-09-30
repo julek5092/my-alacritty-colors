@@ -3,7 +3,7 @@ background = '#000000'
 foreground = '#cccccc'
 
 [colors.normal]
-magenta = '#c19ba0' # Sets your primary prompt/accent color
+magenta = '#c19ba0'
 cyan = '#c5c6cf'
 blue = '#34535c'
 yellow = '#a17e4d'
