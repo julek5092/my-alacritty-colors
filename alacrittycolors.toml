@@ -1,9 +1,30 @@
+# ~/.config/alacritty/alacritty.toml
+[window]
+dimensions = { columns = 120, lines = 30 }
+#opacity = 0.95
+[font]
+normal = { family = "Fixedsys", style = "Regular" }
+bold = { family = "Fixedsys", style = "Regular" }
+size = 11
+
+[font.offset]
+x = -1
+y = 0
+
+#[cursor]
+#blink_interval = 500
+#unfocused_hollow = false
+
+#[cursor.style]
+#shape = "Underline"
+#blinking = "On"
+
 [colors.primary]
 background = '#000000'
 foreground = '#cccccc'
 
 [colors.normal]
-magenta = '#c19ba0'
+magenta = '#c19ba0' # Sets your primary prompt/accent color
 cyan = '#c5c6cf'
 blue = '#34535c'
 yellow = '#a17e4d'
